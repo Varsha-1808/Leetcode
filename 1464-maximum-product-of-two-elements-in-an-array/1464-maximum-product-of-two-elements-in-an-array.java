@@ -1,0 +1,15 @@
+class Solution {
+    public int maxProduct(int[] nums) {
+        int max=0;
+        if(nums.length==0 || nums.length==1){
+            return 0;
+        }
+        for(int i=0;i<nums.length;i++){
+            for(int j=i+1;j<nums.length;j++){
+                int sum=(nums[i]-1)*(nums[j]-1);
+                max=Math.max(max,sum);
+            }
+        }
+        return max;
+    }
+}
