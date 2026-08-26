@@ -24,14 +24,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Varsha-1808/Leetcode/tree/master/0013-roman-to-integer) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varsha-1808/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Varsha-1808/Leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Varsha-1808/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Varsha-1808/Leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Varsha-1808/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
