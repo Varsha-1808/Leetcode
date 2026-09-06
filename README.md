@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Varsha-1808/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Varsha-1808/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Varsha-1808/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Varsha-1808/Leetcode/tree/master/0292-nim-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,4 +72,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Varsha-1808/Leetcode/tree/master/0867-transpose-matrix) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Varsha-1808/Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Varsha-1808/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Varsha-1808/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Varsha-1808/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Varsha-1808/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
