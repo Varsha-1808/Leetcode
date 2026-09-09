@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Varsha-1808/Leetcode/tree/master/0202-happy-number) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varsha-1808/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Varsha-1808/Leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Varsha-1808/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Varsha-1808/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varsha-1808/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Varsha-1808/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Varsha-1808/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Varsha-1808/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Varsha-1808/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Varsha-1808/Leetcode/tree/master/0292-nim-game) |
 ## Binary Search
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Varsha-1808/Leetcode/tree/master/0191-number-of-1-bits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Varsha-1808/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
