@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Varsha-1808/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Varsha-1808/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Varsha-1808/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Varsha-1808/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Varsha-1808/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Varsha-1808/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Varsha-1808/Leetcode/tree/master/0326-power-of-three) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Varsha-1808/Leetcode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Varsha-1808/Leetcode/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Varsha-1808/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Varsha-1808/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Varsha-1808/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Varsha-1808/Leetcode/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Varsha-1808/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
