@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Varsha-1808/Leetcode/tree/master/0001-two-sum) |
 | [0228-summary-ranges](https://github.com/Varsha-1808/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Varsha-1808/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varsha-1808/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Varsha-1808/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Varsha-1808/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Varsha-1808/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Varsha-1808/Leetcode/tree/master/0268-missing-number) |
