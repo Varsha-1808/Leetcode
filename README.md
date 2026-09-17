@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Varsha-1808/Leetcode/tree/master/0605-can-place-flowers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Varsha-1808/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/Varsha-1808/Leetcode/tree/master/0867-transpose-matrix) |
+| [0922-sort-array-by-parity-ii](https://github.com/Varsha-1808/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1046-last-stone-weight](https://github.com/Varsha-1808/Leetcode/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Varsha-1808/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Varsha-1808/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Varsha-1808/Leetcode/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Varsha-1808/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0922-sort-array-by-parity-ii](https://github.com/Varsha-1808/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Varsha-1808/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Varsha-1808/Leetcode/tree/master/0202-happy-number) |
+| [0922-sort-array-by-parity-ii](https://github.com/Varsha-1808/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varsha-1808/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
