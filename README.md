@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Varsha-1808/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Varsha-1808/Leetcode/tree/master/0066-plus-one) |
 | [0228-summary-ranges](https://github.com/Varsha-1808/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Varsha-1808/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varsha-1808/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Varsha-1808/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Varsha-1808/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Varsha-1808/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Varsha-1808/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Varsha-1808/Leetcode/tree/master/0231-power-of-two) |
