@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Varsha-1808/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Varsha-1808/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varsha-1808/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Varsha-1808/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varsha-1808/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Varsha-1808/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Varsha-1808/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Varsha-1808/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Varsha-1808/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Varsha-1808/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Varsha-1808/Leetcode/tree/master/0342-power-of-four) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Varsha-1808/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Varsha-1808/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Varsha-1808/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Varsha-1808/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Greedy
 |  |
 | ------- |
